@@ -3,8 +3,8 @@ Pingu Status:
 dead/alive/killed
 falling/not falling
 
-Pingu AI
-~~~~~~~~
+Pingu AI (Not like ChatGPT / Claude / Grok / Codex or anything like that)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ()()()()  A Pingu can walk at max two steps if he hits a three
 ()()()()  pixel high border he reverses its direction.	      
