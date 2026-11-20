@@ -6,7 +6,8 @@ Introduction
 
 This fork of Pingus was made due to people not liking the recent direction Pingus has taken with the AI usage.
 
-This also means that this fork has NO AI.
+This also means that this fork has NO AI (unless you're talking about the movement of the pingus, that is a form of 
+"AI" but it has NOTHING to do with stuff like ChatGPT or whatever).
 
 This was not made to "mock" or "insult" Grumbel for his AI usage or anything like that, even though I don't like
 AI usage, especially for public projects like Pingus.
