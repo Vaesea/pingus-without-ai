@@ -1,3 +1,16 @@
+Pingus (No AI fork)
+===================
+
+Introduction
+------------
+
+This fork of Pingus was made due to people not liking the recent direction Pingus has taken with the AI usage.
+
+This also means that this fork has NO AI.
+
+This was not made to "mock" or "insult" Grumbel for his AI usage or anything like that, even though I don't like
+AI usage, especially for public projects like Pingus.
+
 Pingus
 ======
 
@@ -42,11 +55,3 @@ IRC
 For a quick help you can try the IRC server irc.freenode.net:6667 and
 the channel #pingus, you can sometimes find the project maintainer
 (nick: grumbel) there.
-
-Bug Reports
------------
-
-Bug reports, new levels and feature requests can be submitted to the
-issue tracker at:
-
-* https://github.com/Pingus/pingus/issues
